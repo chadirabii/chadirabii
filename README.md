@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=49&duration=3000&pause=800&width=870&height=100&center=true&lines=Hello%2C+my+name+is+Chadi+Rabii;Hallo%2C+mijn+naam+is+Chadi+Rabii;%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7%D8%8C+%D8%A7%D8%B3%D9%85%D9%8A+%D8%B4%D8%A7%D8%AF%D9%8A+%D8%B1%D8%A8%D9%8A%D8%B9;Ciao%2C+mi+chiamo+Chadi+Rabii;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E6%9F%A5%E8%BF%AA%C2%B7%E6%8B%89%E6%AF%94;Ol%C3%A1%2C+o+meu+nome+%C3%A9+Chadi+Rabii;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E3%83%81%E3%83%A3%E3%83%87%E3%82%A3%E3%83%BB%E3%83%A9%E3%83%93%E3%83%BC%E3%81%A7%E3%81%99;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BE+%E0%A4%A8%E0%A4%BE%E0%A4%AE+%E0%A4%B9%E0%A5%88+%E0%A4%9A%E0%A4%BE%E0%A4%A6%E0%A5%80+%E0%A4%B0%E0%A4%AC%E0%A5%80;Ahoj%2C+jmenuji+se+Chadi+Rabii;%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%A7%D0%B0%D0%B4%D0%B8+%D0%A0%D0%B0%D0%B1%D0%B8%D0%B8"
+      alt="Typing SVG" />
+  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=F71FF2&center=true&width=435&lines=Full-Stack+Web+Developer;Open-Source+Enthusiast;Mobile+Developer;Software+Engineering+Student;MERN+Stack+Developer;Gamer;Jived+fox+nymph+grabs+quick+waltz" alt="Typing SVG" /></a>
+</p>
+
 
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chadirabii) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chadi_rabii) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chadi.rabii.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chadi_rabii) 

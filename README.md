@@ -16,6 +16,9 @@
 
 ## 📊 GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chadirabii&theme=dark&hide_border=false)<br/>
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chadirabii&theme=github-dark-blue" />
+</div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chadirabii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

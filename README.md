@@ -15,11 +15,18 @@
 
 
 ## 📊 GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=chadirabii&theme=dark&hide_border=false)<br/>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=chadirabii&theme=github-dark-blue" />
 </div>
-
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chadirabii&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chadirabii&theme=github_dark" /><br />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chadirabii&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chadirabii&theme=github_dark" />
+</div>
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chadirabii&theme=github_dark" />
+</div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chadirabii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## ✍️ Random Dev Quote :

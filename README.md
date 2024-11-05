@@ -27,7 +27,6 @@
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chadirabii&theme=github_dark" />
 </div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chadirabii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

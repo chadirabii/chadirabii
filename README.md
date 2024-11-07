@@ -20,9 +20,9 @@
 </div>
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chadirabii&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chadirabii&theme=github_dark" /><br />
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chadirabii&theme=github_dark" /><br /> -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chadirabii&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chadirabii&theme=github_dark" />
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chadirabii&theme=github_dark" /> -->
 </div>
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chadirabii&theme=github_dark" />

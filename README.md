@@ -80,7 +80,3 @@ I'm a passionate Full-Stack Developer with expertise in the MERN stack and mobil
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=chadirabii&icon=0&color=0)](https://visitcount.itsvg.in)
